@@ -54,6 +54,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/109951169585655912.webp",
 				lrc: "",
 			},
+			{
+				name: "室内系的TrackMaker",
+				artist: "hanser",
+				url: "/assets/music/室内系的TrackMaker - hanser.mp3",
+				cover: "",
+				lrc: "",
+			},
 		],
 	},
-};
+};  
