@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "hi很高兴见到你",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.jzjskkwkjwndjsk.de5.net",
 
 	// 站点描述
 	description:

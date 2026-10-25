@@ -18,6 +18,6 @@ export const announcementConfig: AnnouncementConfig = {
 		// 链接 URL
 		url: "/about/",
 		// 内部链接
-		external: false,
+		external: true,
 	},
 };

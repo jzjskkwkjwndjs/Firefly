@@ -43,9 +43,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			//"assets/images/DesktopWallpaper/d1.avif",
 			//"assets/images/DesktopWallpaper/d2.avif",
 			//"assets/images/DesktopWallpaper/d3.avif",
-			//"assets/images/DesktopWallpaper/d4.avif",
+			"assets/images/DesktopWallpaper/d4.avif",
 			//"assets/images/DesktopWallpaper/d5.avif",
-			//"assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/d6.avif",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
@@ -81,12 +81,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			subtitle: [
 				"Arch liniux",
 				"Do your self",
-				"The harder,The better"
-				//"In Reddened Chrysalis, I Once Rest",
+				"The harder,The better",
+				"In Reddened Chrysalis, I Once Rest",
 				//"From Shattered Sky, I Free Fall",
 				//"Amidst Silenced Stars, I Deep Sleep",
-				//"Upon Lighted Fyrefly, I Soon Gaze",
-				//"From Undreamt Night, I Thence Shine",
+				"Upon Lighted Fyrefly, I Soon Gaze",
+				"From Undreamt Night, I Thence Shine",
 				//"In Finalized Morrow, I Full Bloom",
 			],
 			// 主页横幅副标题字体大小
@@ -133,7 +133,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
                     name: "Bilibili",                              // ← 新增
                     icon: "fa7-brands:bilibili",
                     url: "https://space.bilibili.com/1416523624",
-                    showName: true,
+                    showName: false,
                  },
 				
 			],
@@ -151,7 +151,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		waves: {
 			enable: {
 				// 桌面端是否启用水波纹动画效果
-				desktop: false,
+				desktop: true,
 				// 移动端是否启用水波纹动画效果
 				mobile: true,
 			},
