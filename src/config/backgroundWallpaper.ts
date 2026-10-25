@@ -80,13 +80,19 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"Arch liniux",
-				"Do your self",
+				"Do yourself",
 				"The harder,The better",
-				"In Reddened Chrysalis, I Once Rest",
+				"不做无法实现的梦",
+				"热点打狙4000+?",
+				"k s k b l?!z  d  j d?",
+				"这是第一条被编写的！",
+				"你看我干嘛？",
+				"这博客真好看",
+				//"In Reddened Chrysalis, I Once Rest",
 				//"From Shattered Sky, I Free Fall",
 				//"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
+				//"Upon Lighted Fyrefly, I Soon Gaze",
+				//"From Undreamt Night, I Thence Shine",
 				//"In Finalized Morrow, I Full Bloom",
 			],
 			// 主页横幅副标题字体大小
