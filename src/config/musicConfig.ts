@@ -57,7 +57,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "室内系的TrackMaker",
 				artist: "hanser",
-				url: "/assets/music/室内系的TrackMaker - hanser.mp3",
+				url: "/assets/music/室内系的TrackMaker.mp3",
 				cover: "",
 				lrc: "",
 			},
